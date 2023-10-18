@@ -6,7 +6,6 @@ This repository contains all the information regarding the 5-day RISC-V based CP
 
 Check the individual day folders for the documentation, source codes and assignments of the respective days of the workshop.
 
-This Course mainly covers Day 3 to 5. For details of Day1 and Day2 [click here](https://github.com/yagnavivek/PES_ASIC_CLASS/blob/main/README.md#course)
 
 <details>
 <summary>DAY 1: Introduction to RISCV ISA and GNU Compiler Toolchain</summary>
@@ -339,7 +338,7 @@ CPU processes the contents of the memory and provides with output using iverilog
 
 Link for the starter code [starter code](https://myth.makerchip.com/sandbox?code_url=https:%2F%2Fraw.githubusercontent.com%2Fstevehoover%2FRISC-V_MYTH_Workshop%2Fmaster%2Frisc-v_shell.tlv#) 
 
-Codes for each step reported below can be found here [Day4 Codes](https://github.com/yagnavivek/PES_YAGNAVIVEK_RISCV/tree/main/DAY4)
+
 
 ## 1. Program Counter
 
