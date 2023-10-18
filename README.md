@@ -134,6 +134,8 @@ signed.c
 
 
 </details>
+
+
 <details>
 <summary>DAY 2 : Introduction to ABI and Basic Verification Flow </summary>
 <br>
@@ -234,9 +236,8 @@ CPU processes the contents of the memory and provides with output using iverilog
 - script : ```rv32im.sh``` : has the commands to get the c-program, ALP, converts into hex format, loads into memory of riscv cpu, passes it iverilog and provides the output
 
 
-
+</details>
 <details>
-
 <summary>DAY 3 : Digital Logic With TL Verilog in Makerchip IDE</summary>
 <br>
 
