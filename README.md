@@ -236,6 +236,7 @@ CPU processes the contents of the memory and provides with output using iverilog
 
 
 <details>
+
 <summary>DAY 3 : Digital Logic With TL Verilog in Makerchip IDE</summary>
 <br>
 
